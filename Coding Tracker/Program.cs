@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//For notes
+Console.WriteLine("Hello, C# Academy. I hope I can learn this!");
